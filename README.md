@@ -12,6 +12,8 @@
 
 - 📫 You can con contact me through email @->-> nkenganyiclovis9@gmail.com
      You can aslo call me through my num +(237) 681-11-74-53
+     
+- 📫 Visit my blog to read interesting web development, business-related and lifestyle articles @https://www.positivevibesmedia.com
 
 <!---
 clovissocial/clovissocial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
